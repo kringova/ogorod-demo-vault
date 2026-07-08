@@ -15,6 +15,8 @@ rice_effort: 0.6
 summary: "Простая статистика: книг в месяц, средний рейтинг"
 roles: [reviewer]
 model_tier: middle
+cost_io_tokens: 19500
+cost_cache_tokens: 41000
 cost_by_model: "claude-sonnet-5=17600/38000; claude-haiku-4-5-20251001=1900/3000"
 ---
 

@@ -15,6 +15,8 @@ rice_effort: 1
 summary: "Собрать список прочитанного за 2025 из старых заметок"
 roles: [reviewer]
 model_tier: middle
+cost_io_tokens: 35300
+cost_cache_tokens: 78800
 cost_by_model: "claude-sonnet-5=31200/72000; claude-haiku-4-5-20251001=4100/6800"
 ---
 

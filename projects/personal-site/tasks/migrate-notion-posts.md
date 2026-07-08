@@ -15,6 +15,8 @@ rice_effort: 1.6
 summary: "Мигрировать старые посты из Notion/Medium в markdown"
 roles: [reviewer, techwriter]
 model_tier: senior
+cost_io_tokens: 152700
+cost_cache_tokens: 443000
 cost_by_model: "claude-opus-4-8=134000/410000; claude-sonnet-5=18700/33000"
 ---
 

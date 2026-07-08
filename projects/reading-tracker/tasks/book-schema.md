@@ -15,6 +15,8 @@ rice_effort: 0.6
 summary: "Спроектировать схему книги (автор/жанр/статус/рейтинг)"
 roles: [reviewer]
 model_tier: middle
+cost_io_tokens: 22000
+cost_cache_tokens: 47100
 cost_by_model: "claude-sonnet-5=19800/44000; claude-haiku-4-5-20251001=2200/3100"
 ---
 

@@ -15,6 +15,8 @@ rice_effort: 0.4
 summary: "Настроить кастомный домен и HTTPS"
 roles: [reviewer]
 model_tier: junior
+cost_io_tokens: 9600
+cost_cache_tokens: 24000
 cost_by_model: "claude-haiku-4-5-20251001=8400/21000; claude-sonnet-5=1200/3000"
 ---
 

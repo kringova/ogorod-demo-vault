@@ -15,6 +15,8 @@ rice_effort: 0.4
 summary: "Экран «Сейчас читаю» на главной"
 roles: [reviewer, techwriter]
 model_tier: junior
+cost_io_tokens: 10600
+cost_cache_tokens: 22100
 cost_by_model: "claude-haiku-4-5-20251001=9200/19500; claude-sonnet-5=1400/2600"
 ---
 

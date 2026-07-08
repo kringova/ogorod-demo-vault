@@ -15,6 +15,8 @@ rice_effort: 0.2
 summary: "Написать раздел «Обо мне» и «Контакты»"
 roles: [reviewer]
 model_tier: junior
+cost_io_tokens: 3100
+cost_cache_tokens: 5200
 cost_by_model: "claude-haiku-4-5-20251001=3100/5200"
 ---
 

@@ -15,6 +15,8 @@ rice_effort: 1
 summary: "Собрать каркас на Astro и задеплоить на Vercel"
 roles: [reviewer]
 model_tier: middle
+cost_io_tokens: 54300
+cost_cache_tokens: 161800
 cost_by_model: "claude-sonnet-5=48200/152000; claude-haiku-4-5-20251001=6100/9800"
 ---
 

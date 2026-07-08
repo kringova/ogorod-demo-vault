@@ -15,6 +15,8 @@ rice_effort: 0.2
 summary: "Чеклист вещей в дорогу"
 roles: [reviewer]
 model_tier: junior
+cost_io_tokens: 2600
+cost_cache_tokens: 4100
 cost_by_model: "claude-haiku-4-5-20251001=2600/4100"
 ---
 

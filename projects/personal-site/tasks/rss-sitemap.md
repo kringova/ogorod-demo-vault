@@ -15,6 +15,8 @@ rice_effort: 0.6
 summary: "RSS-фид и sitemap для блога"
 roles: [reviewer]
 model_tier: middle
+cost_io_tokens: 25300
+cost_cache_tokens: 65100
 cost_by_model: "claude-sonnet-5=22500/61000; claude-haiku-4-5-20251001=2800/4100"
 ---
 

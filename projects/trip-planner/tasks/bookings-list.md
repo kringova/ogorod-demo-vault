@@ -15,6 +15,8 @@ rice_effort: 0.6
 summary: "Список бронирований (жильё/транспорт) с датами"
 roles: [reviewer]
 model_tier: middle
+cost_io_tokens: 15400
+cost_cache_tokens: 31400
 cost_by_model: "claude-sonnet-5=13800/29000; claude-haiku-4-5-20251001=1600/2400"
 ---
 

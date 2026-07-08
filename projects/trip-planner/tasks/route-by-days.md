@@ -15,6 +15,8 @@ rice_effort: 1
 summary: "Собрать маршрут по дням и точкам на карте"
 roles: [reviewer]
 model_tier: middle
+cost_io_tokens: 29600
+cost_cache_tokens: 63100
 cost_by_model: "claude-sonnet-5=26400/58000; claude-haiku-4-5-20251001=3200/5100"
 ---
 

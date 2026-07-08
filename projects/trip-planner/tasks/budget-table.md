@@ -15,6 +15,8 @@ rice_effort: 0.6
 summary: "Таблица бюджета по категориям"
 roles: [reviewer]
 model_tier: middle
+cost_io_tokens: 17000
+cost_cache_tokens: 33900
 cost_by_model: "claude-sonnet-5=15200/31000; claude-haiku-4-5-20251001=1800/2900"
 ---
 
